@@ -11,7 +11,7 @@ let c = [true, false, false];
 // A: boolean[] because this is a list of boolean values
 
 let d = {age: number};
-// A: None/null. I tried to log this to the console and it gave me nothing back.
+// A: None/null. I tried to log this one because I was stuck and it gave me nothing back
 
 let e = [3]
 // A: number[] because this is a list of numbers
